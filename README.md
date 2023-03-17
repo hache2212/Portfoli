@@ -5,8 +5,8 @@ Aquest és el meu **portfoli** dels meus estudis del *Cicle Superior de Desenvol
 Els mòduls que he fet són:
 
 - [M01: Sistemes Informàtics](https://github.com/hache2212/Portfoli/tree/main/Moduls/M01-SistemesInformatics)
-- M02
-- M03
-- M04
-- FOL
-- EiE
+- [M02: Bases de Dades](https://github.com/hache2212/Portfoli/tree/main/Moduls/M02-BasesDeDades)
+- [M03: Programació](https://github.com/hache2212/Portfoli/tree/main/Moduls/M03-Programacio)
+- [M04: LLenguatge de Marques](https://github.com/hache2212/Portfoli/tree/main/Moduls/M04-LlenguatgeDeMarques)
+- [FOL: Formació i Orientació Laboral](https://github.com/hache2212/Portfoli/tree/main/Moduls/M12-FOL)
+- [EiE: Empresa i iniciativa Emprenededora](https://github.com/hache2212/Portfoli/tree/main/Moduls/M13-EiE)
