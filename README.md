@@ -1,6 +1,6 @@
 ## Portfoli
 
-Aquest és el meu portfoli dels meus estudis del Cicle Superior de Desenvolupamnet d'Aplicacions Multiplataforma.
+Aquest és el meu **portfoli** dels meus estudis del *Cicle Superior de Desenvolupamnet d'Aplicacions Multiplataforma*.
 
 Els mòduls que he fet són:
 
